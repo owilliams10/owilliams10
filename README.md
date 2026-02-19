@@ -1,4 +1,4 @@
-<h1>Hi, I'm Octavious! Passionate Cybersecurity Enthusiast.</h1>
+<h1>Hi, I'm Octavious! Passionate Cybersecurity Analyst</h1>
 
 <h2>👨‍💻 Incident Response Projects:</h2>
 
