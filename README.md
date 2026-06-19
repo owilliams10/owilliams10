@@ -9,7 +9,7 @@
  <h2>👨‍💻 Vulnerability Management Projects:</h2>
 
 - <b>TTP Heat Map</b>
-  - [Using the Mitre Att&ck Navigator to Create a Heat Map of common TTPs amongst relevant threat groups] (https://github.com/owilliams10/IG-Mitre-ThreatActor-HeatMap)
+  - [Using the Mitre Att&ck Navigator to Create a Heat Map of Common TTPs Amongst Relevant Threat Groups] (https://github.com/owilliams10/IG-Mitre-ThreatActor-HeatMap)
 
 
 <h2> 🤳 Connect with me:</h2>
