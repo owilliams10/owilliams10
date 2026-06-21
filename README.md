@@ -14,7 +14,7 @@
  <h2>👨‍💻 My Cyber Security Blog:</h2>
 
 - <b>Octavious’ Cyber Security Blog: Lab Walkthroughs</b>
-  - [Hands-on Offensive & Defensive Cyber Security Labs w/ Detailed Walkthroughs] (https://app.notion.com/p/Octavious-Cyber-Security-Blog-386e54f50e1d804183dad92a6c229677?source=copy_link)
+  - [Hands-on Offensive & Defensive Cyber Security Labs with Detailed Walkthroughs] (https://app.notion.com/p/Octavious-Cyber-Security-Blog-386e54f50e1d804183dad92a6c229677?source=copy_link)
 
 
 <h2> 🤳 Connect with me:</h2>
