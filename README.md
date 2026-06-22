@@ -15,6 +15,7 @@
 
 - <b>Octavious’ Cyber Security Blog: Lab Walkthroughs & Informative Articles</b>
   - [Hands-on Offensive & Defensive Cyber Security Labs with Detailed Walkthroughs] (https://app.notion.com/p/Octavious-Cyber-Security-Blog-386e54f50e1d804183dad92a6c229677?source=copy_link)
+  - [My Blog Articles on LinkedIn] (https://www.linkedin.com/in/cybergeekowill/recent-activity/articles/)
 
 
 <h2> 🤳 Connect with me:</h2>
